@@ -1,1 +1,1 @@
-# ml_methods_in_cv_labs
+# ml_methods_in_cv_labsЛабораторные работы курса "Методы МО в компьютерном зрении"
